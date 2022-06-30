@@ -117,7 +117,7 @@ ceph-manager
 cert-alarm
 
 #cert-manager-helm
-cert-manager-helm
+#cert-manager-helm
 
 #cert-mon
 cert-mon
